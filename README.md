@@ -13,6 +13,6 @@ cd sage
 
 ls
 
-python s4g3.py
+python s4ge.py
 
 
